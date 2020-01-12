@@ -1,0 +1,1 @@
+Source code for `Algorithms` lectures of [School of Technology](https://www.youtube.com/channel/UCJPqxqu4-1LJthBa4QF_3-g)
